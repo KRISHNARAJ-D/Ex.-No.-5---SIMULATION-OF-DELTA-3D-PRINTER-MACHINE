@@ -27,7 +27,8 @@ To simulate the construction of delta 3D printer and to get in-depth knowledge o
 <img height=30% width=50% src="https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066">
 
 ## Output:
-<img height=30% width=50% src="https://github.com/ROHITJAIND/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118707073/9b00d783-b28d-4db7-a357-98eb1c57c4ec">
+![out](https://github.com/KRISHNARAJ-D/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119559695/bc3eb326-5205-4e11-aee3-5c87f62f0d8c)
+
 
 ### Name: KRISHNARAJ D
 ### Register Number: 212222230070
